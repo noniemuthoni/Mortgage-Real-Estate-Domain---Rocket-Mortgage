@@ -43,11 +43,14 @@ The company uses big data to study customer trends with respect to payment histo
 ---
 
 **_Trends and Major Innovations_**
-* Convinience
 
-Applicants can now fill out electronic forms online or on a phone application from anywhere in the country and do not have to be restricted to financial institutions in a particular geograhical location. Before one had to walk into a physical bank and fill out a stack of paper work. Once the loan is approved, everything is then completed online by use of electronic signatures, remote online notarization, e-recording etc.
+* Virtual Loan officers and realtors
+Realtors and lenders have had to get creative in order to reach and accomodate the increase in applicants from all over the country. With the pandemic, potential buyers were able to have virtual calls with realtors to tour homes and facilitate a face to face meeting with their loan officers.
 
-* Speed
+* Crowd funding platforms
+
+Consumers are looking for creative ways to finance their home purchase by moving away from traditional banks with the high interest rates. This has brought forth crowd funded platforms that have also attracted investors. 
+
 
 One can get a decision on an application within 8 minutes.
 
