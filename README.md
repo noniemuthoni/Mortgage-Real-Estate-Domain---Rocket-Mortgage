@@ -58,13 +58,13 @@ The company uses big data to study customer trends with respect to payment histo
 
 **_Competitors_**
 
-1.Loan Depot
+1. Loan Depot
 
-2.Bank of America
+2. Bank of America
 
-3.PNC Bank
+3. PNC Bank
 
-4.SoFi
+4. SoFi
 
 ---
 
@@ -73,14 +73,49 @@ The company uses big data to study customer trends with respect to payment histo
 Rocket mortgage gained popularity during the pandemic when demand for homes sky rocketed and people could not leave their homes due to quarantine. One could simply complete the home buying process from the confort of their home while enjoying safety and anynomity. By embracing technology, the company was able to deal increased loan applications without compromising processing times and creditworthiness. The company managed to have 1.1 million loan originations in 2020.
 
 ---
+
 **_Core Metrics_**
 
+1.  _Pull Through Rate_ 
+
+      This measures pipeline efficiency by dividing the total number of funded loans by the number of submitted applications over a specified time.
+      Provides clarity on:
+            * workflow efficiency
+            * qualit of applications 
+            * interest rate competitivenes
+ 2. _Average cycle time_
+ 
+      This measures the days it takes loan packets to process from start to finish divided by the number of total loans funded. The lower the cycle time, the more efficient       the process is.
+  
+  3. _Average mortgage loan value_
+  
+       The end goal of any business is to make profits. This metric helps financial lenders determine which of their products are most profitabel especiall with an ever changing market. This is obtained by divind the total originated loan volume by the number of funded loans within a defined time period. 
+       
+---
 
 **_Recommendations_**
 
-Wider acceptance of Cryptocurrency in mortgage transactions.
+_Cryptocurrency as an acceptable form of payment_
+
+Cuurentlyy buyers are unable to directly use crypto to finance their purchase. They are required to convert the funds to dollares facing taxation in the process. Lenders are unwilling to accept crypto as a fomr of payment due it's volatile nature. Some lenders will however use it as collateral until the asset is paid off.
+
+---
 
 
+**Resources**
 
-Resources
+https://bntouch.com/mortgage-blog/future-mortgage-technology-trends/
+
+https://www.washingtontechnology.org/blockchain/what-is-blockchain/?gclid=Cj0KCQjwmZejBhC_ARIsAGhCqnetpZA3wfkeFhXGJj8TNzjQn1lcP35jLY2mYi6QwxpEDFkd1jEv7DkaAhc3EALw_wcB
+
+https://6sense.com/company/rocket-mortgage/627b16497925586bf02c2093
+
+https://www.rocketcompanies.com/press-release/quicken-loans-launches-rocket-mate-as-a-prime-feature-of-rocket-mortgage/
+
+https://en.wikipedia.org/wiki/Cloud_computing
+
+https://www.investopedia.com/articles/personal-finance/010815/how-quicken-loans-mortgages-work.asp
+
+https://www.goodvibesquad.com/blog/important-mortgage-kpis-and-how-to-track-them/
+
 
