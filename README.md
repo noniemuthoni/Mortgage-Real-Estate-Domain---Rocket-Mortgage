@@ -44,15 +44,15 @@ The company uses big data to study customer trends with respect to payment histo
 
 **_Trends and Major Innovations_**
 
-* Virtual Loan officers and realtors
-Realtors and lenders have had to get creative in order to reach and accomodate the increase in applicants from all over the country. With the pandemic, potential buyers were able to have virtual calls with realtors to tour homes and facilitate a face to face meeting with their loan officers.
+* Virtual buying experience
 
 * Crowd funding platforms
 
-Consumers are looking for creative ways to finance their home purchase by moving away from traditional banks with the high interest rates. This has brought forth crowd funded platforms that have also attracted investors. 
+* Self-service tools
 
+* Expedited processing and e-closing
 
-One can get a decision on an application within 8 minutes.
+* Use of Artificial intelligence and Machine learning to predict variables in the mortgage process 
 
 ---
 
@@ -73,10 +73,13 @@ One can get a decision on an application within 8 minutes.
 Rocket mortgage gained popularity during the pandemic when demand for homes sky rocketed and people could not leave their homes due to quarantine. One could simply complete the home buying process from the confort of their home while enjoying safety and anynomity. By embracing technology, the company was able to deal increased loan applications without compromising processing times and creditworthiness. The company managed to have 1.1 million loan originations in 2020.
 
 ---
+**_Core Metrics_**
+
 
 **_Recommendations_**
 
-Cryptocurrency
+Wider acceptance of Cryptocurrency in mortgage transactions.
+
 
 
 Resources
